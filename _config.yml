@@ -81,11 +81,10 @@ content:
         # quote: >
         #   Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          - paper : <a href="https://github.com/tim000519/tim000519.github.io//tree/main/pdf/style.pdf">Style-VT(PDF)</a>
-          - poster : <a href="https://github.com/tim000519/tim000519.github.io//tree/main/pdf/stylePoster.pdf">Style-VT(PDF)</a>
-          - [Download Resume (PDF)](/pdf/style.pdf)
-          - <a href="/pdf/style.pdf" target="_blank">Download Resume (PDF)</a>
-          - <a href="/pdf/style.pdf">Download Resume (PDF)</a>
+          - Paper(English) : <a href="/pdf/Access.pdf" target="_blank"> Style-VT: Style Conditioned Chord Generation by Variational Transformer with Chord Substitution (PDF)</a>
+          - Paper(Korean) : <a href="/pdf/style.pdf" target="_blank">STYLE-VT Variational Transformer와 대리 코드 이론을 적용한 스타 (PDF)</a>
+          - Poster : <a href="/pdf/poster.pdf" target="_blank">Style-VT(PDF)</a>
+          - Repository : [GitHub](https://github.com/tim000519/Style-VT)
 
           Description about the work on/with the project
 
