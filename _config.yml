@@ -88,6 +88,11 @@ content:
           - <a href="/docs/style.pdf">Download Resume (PDF)</a>
 
           Description about the work on/with the project
+
+        title: AI in Music Generation
+        description: |
+          - paper :
+          
   - title: Experience
     layout: list
     content:
