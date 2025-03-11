@@ -81,6 +81,8 @@ content:
         quote: >
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
+          - paper : <a href="google.com">Style-VT</a>
+          - paper : <a href="google.com">ConvLSTM-based Particulate Matter Concentration Prediction Model with Location of Weather Station by Meteorological Data Imagification</a>
           Description about the work on/with the project
   - title: Experience
     layout: list
