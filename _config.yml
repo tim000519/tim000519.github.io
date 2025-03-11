@@ -82,7 +82,11 @@ content:
         #   Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           - paper : <a href="https://github.com/tim000519/tim000519.github.io//tree/main/pdf/style.pdf">Style-VT(PDF)</a>
-          - paper : <a href="google.com">ConvLSTM-based Particulate Matter Concentration Prediction Model with Location of Weather Station by Meteorological Data Imagification</a>
+          - poster : <a href="https://github.com/tim000519/tim000519.github.io//tree/main/pdf/stylePoster.pdf">Style-VT(PDF)</a>
+          - [Download Resume (PDF)](/docs/style.pdf)
+          - <a href="/docs/style.pdf" target="_blank">Download Resume (PDF)</a>
+          - <a href="/docs/style.pdf">Download Resume (PDF)</a>
+
           Description about the work on/with the project
   - title: Experience
     layout: list
