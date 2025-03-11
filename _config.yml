@@ -51,7 +51,7 @@ instagram_username: ky.0_0.ne
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/profile.jpg
+about_profile_image: images/me.jpg
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
@@ -78,10 +78,10 @@ content:
         #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
         #     icon: fab fa-github
         #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
+        # quote: >
+        #   Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          - paper : <a href="google.com">Style-VT</a>
+          - paper : <a href="https://github.com/tim000519/tim000519.github.io//tree/main/pdf/style.pdf" target="_blank">Style-VT(PDF)</a>
           - paper : <a href="google.com">ConvLSTM-based Particulate Matter Concentration Prediction Model with Location of Weather Station by Meteorological Data Imagification</a>
           Description about the work on/with the project
   - title: Experience
