@@ -68,12 +68,15 @@ content:
     content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item.
-        title: AI in Music Generation
-        quote: >
-          <p>AI in Music Generation</p>
+        title: <p>AI in Music Generation</p>
           <a href="/images/Style-VT_Last.png" target="_blank">
             <img src="/images/Style-VT_Last.png" alt="AI in Music Generation" width="300" style="display: block; margin-top: 10px; clear: both;">
           </a>
+        # quote: >
+        #   <p>AI in Music Generation</p>
+        #   <a href="/images/Style-VT_Last.png" target="_blank">
+        #     <img src="/images/Style-VT_Last.png" alt="AI in Music Generation" width="300" style="display: block; margin-top: 10px; clear: both;">
+        #   </a>
 
         description: |         
           ## <mark>Research</mark>
