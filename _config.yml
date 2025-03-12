@@ -71,9 +71,10 @@ content:
         title: AI in Music Generation
 
         description: |
+          ## <mark>Research</mark>
           <div style="display: flex; align-items: center;">
             <a href="/pdf/Access.pdf" target="_blank" style="margin-right: 10px;">
-              <img src="/images/contract.png" alt="PDF" width="30" style="vertical-align: middle;">
+              <img src="/images/contract.png" alt="PDF" width="30" style="vertical-align: top;">
             </a>
             <p style="margin-left: 5px; vertical-align: middle;">
               K.Song, D.Seo, J.Na, and H.Yang, "Style-VT: Style Conditioned Chord Generation by Variational Transformer with Chord Substitution"
