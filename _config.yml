@@ -79,10 +79,13 @@ content:
         #     icon: fab fa-github
         #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          <img src="/images/Style-VT_Last.png" alt="AI in Music Generation">
+          <a href="/images/Style-VT_Last.png" target="_blank">
+            <img src="/images/Style-VT_Last.png" alt="AI in Music Generation" width="300" style="display: block; margin-top: 10px;">
+          </a>
+
         description: | # this will include new lines to allow paragraphs
           ## Research
-          - Paper(English) : Style-VT: Style Conditioned Chord Generation by Variational Transformer with Chord Substitution (PDF)
+          - Style-VT: Style Conditioned Chord Generation by Variational Transformer with Chord Substitution
           <a href="/pdf/Access.pdf" target="_blank">
             <img src="/images/contract.png" alt="PDF" width="20" style="vertical-align: middle; margin-left: 5px;">
           </a>
