@@ -78,12 +78,15 @@ content:
         #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
         #     icon: fab fa-github
         #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        # quote: >
-        #   Short overview of the project (optional)
+        quote: |
+          ![AI in Music Generation](images/Style-VT_Last.png)
         description: | # this will include new lines to allow paragraphs
+          ## Research
           - Paper(English) : <a href="/pdf/Access.pdf" target="_blank"> Style-VT: Style Conditioned Chord Generation by Variational Transformer with Chord Substitution (PDF)</a>
           - Paper(Korean) : <a href="/pdf/style.pdf" target="_blank">STYLE-VT Variational Transformer와 대리 코드 이론을 적용한 스타 (PDF)</a>
           - Poster : <a href="/pdf/poster.pdf" target="_blank">Style-VT(PDF)</a>
+
+          ## Development
           - Repository : [GitHub](https://github.com/tim000519/Style-VT)
 
           Description about the work on/with the project
@@ -99,10 +102,10 @@ content:
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: Edint
+        sub_title: AI Engineer Intern
+        caption: 2024.06 - 2024.07 )
+        link: https://edint.kr/
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
@@ -111,7 +114,7 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: Institution name
+        title: Bachelor’s Degree. Computer Convergence, Chungnam National University
         sub_title: Qualifications (eg. BA Performing Arts)
         caption: Date Range (eg. 2016 - 2019)
         quote: >
