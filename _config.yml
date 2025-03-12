@@ -69,20 +69,15 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item.
         title: AI in Music Generation
-        quote: >
-          # <p>AI in Music Generation</p>
-          # <a href="/images/Style-VT_Last.png" target="_blank">
-          #   <img src="/images/Style-VT_Last.png" alt="AI in Music Generation" width="300" style="display: block; margin-top: 10px; clear: both;">
-          # </a>
 
-        description: |         
-          ## <mark>Research</mark>
-          <a href="/pdf/Access.pdf" target="_blank" style="display: inline-block; text-decoration: none;">
+        description: |
+          ## <mark>Research</mark> 
+          <a href="/pdf/Access.pdf" target="_blank" style="display: inline-block;">
             <img src="/images/contract.png" alt="PDF" width="30" style="vertical-align: middle; margin-left: 20px;">
-            <span style="margin-left: 5px;">
-              K.Song, D.Seo, J.Na, and H.Yang, "Style-VT: Style Conditioned Chord Generation by Variational Transformer with Chord Substitution"
-            </span>
           </a>
+          <p style="display: inline-block; margin-left: 5px; vertical-align: middle;">
+            K.Song, D.Seo, J.Na, and H.Yang, "Style-VT: Style Conditioned Chord Generation by Variational Transformer with Chord Substitution"
+          </p>
 
           <a href="/pdf/style.pdf" target="_blank">
             <img src="/images/contract.png" alt="PDF" width="20" style="vertical-align: middle; margin-left: 5px;">
