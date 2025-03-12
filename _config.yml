@@ -70,20 +70,11 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: AI in Music Generation
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        # quote: >
-        #   <a href="/images/Style-VT_Last.png" target="_blank">
-        #     <img src="/images/Style-VT_Last.png" alt="AI in Music Generation" width="300" align="left">
-        #   </a>
-
+        quote: >
+          <a href="/images/Style-VT_Last.png" target="_blank">
+            <img src="/images/Style-VT_Last.png" alt="AI in Music Generation" width="300" style="display: block; margin-top: 10px; clear: both;">
+          </a>
+          
         description: |         
           ## <mark>Research</mark>
           <a href="/pdf/Access.pdf" target="_blank" style="display: inline-block;">
