@@ -69,31 +69,33 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: AI in Music Generation
-        # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        # link_text: Link Text
-        # additional_links:
-        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #     icon: fab fa-github
-        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
-        #     icon: fab fa-github
-        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          <a href="/images/Style-VT_Last.png" target="_blank">
-            <img src="/images/Style-VT_Last.png" alt="AI in Music Generation" width="300" align="left">
-          </a>
+        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: Link Text
+        additional_links:
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        # quote: >
+        #   <a href="/images/Style-VT_Last.png" target="_blank">
+        #     <img src="/images/Style-VT_Last.png" alt="AI in Music Generation" width="300" align="left">
+        #   </a>
 
         description: | # this will include new lines to allow paragraphs
           ## Research
-          - K.Song, D.Seo, J.Na, and H.Yang, "Style-VT: Style Conditioned Chord Generation by Variational Transformer with Chord Substitution"
           <a href="/pdf/Access.pdf" target="_blank">
-            <img src="/images/contract.png" alt="PDF" width="20" style="vertical-align: middle; margin-left: 5px;">
-          </a>
-          - 송교원, 서동영, 나준수, 양희철, "Variational Transformer와 대리 코드 이론을 적용한 스타일 기반 음악생성 모델",
-          in Korean Institute of Information Scientists and Engineers
+            <img src="/images/contract.png" alt="PDF" width="30" style="vertical-align: middle; margin-left: 5px;">
+          </a>          
+          K.Song, D.Seo, J.Na, and H.Yang, "Style-VT: Style Conditioned Chord Generation by Variational Transformer with Chord Substitution"
+          
           <a href="/pdf/style.pdf" target="_blank">
             <img src="/images/contract.png" alt="PDF" width="20" style="vertical-align: middle; margin-left: 5px;">
           </a>
+          송교원, 서동영, 나준수, 양희철, "Variational Transformer와 대리 코드 이론을 적용한 스타일 기반 음악생성 모델",
+          in Korean Institute of Information Scientists and Engineers
+        
           - Research poster at KIISE 2024 <a href="/pdf/poster.pdf" target="_blank">Style-VT(PDF)</a>
 
           ## Development
@@ -114,7 +116,7 @@ content:
       - layout: right
         title: Edint
         sub_title: AI Engineer Intern
-        caption: 2024.06 - 2024.07 )
+        caption: 2024.06 - 2024.07
         link: https://edint.kr/
         quote: >
           Short description of the company (optional)
