@@ -71,13 +71,29 @@ content:
         title: AI in Music Generation
 
         description: |
-          ## <mark>Research</mark>           
-          <a href="/pdf/Access.pdf" target="_blank" style="display: inline-block; text-decoration: none;">
-            <img src="/images/contract.png" alt="PDF" width="30" style="vertical-align: middle; margin-left: 0px;">
-            <span style="margin-left: 5px;">
+          # ## <mark>Research</mark>
+          # <a href="/pdf/Access.pdf" target="_blank" style="display: inline-block;">
+          #   <img src="/images/contract.png" alt="PDF" width="30" style="vertical-align: middle; margin-left: 20px;">
+          # </a>          
+          # <p style="display: inline; margin-left: 5px;">
+          #   K.Song, D.Seo, J.Na, and H.Yang, "Style-VT: Style Conditioned Chord Generation by Variational Transformer with Chord Substitution"
+          # </p>
+          # <a href="/pdf/Access.pdf" target="_blank" style="display: inline-block; text-decoration: none;">
+          #   <img src="/images/contract.png" alt="PDF" width="30" style="vertical-align: middle; margin-left: 0px;">
+          #   <span style="margin-left: 5px;">
+          #     K.Song, D.Seo, J.Na, and H.Yang, "Style-VT: Style Conditioned Chord Generation by Variational Transformer with Chord Substitution"
+          #   </span>
+          # </a>
+
+          <div style="display: flex; align-items: center;">
+            <a href="/pdf/Access.pdf" target="_blank" style="margin-right: 10px;">
+              <img src="/images/contract.png" alt="PDF" width="30" style="vertical-align: middle;">
+            </a>
+            <p style="margin-left: 5px; vertical-align: middle;">
               K.Song, D.Seo, J.Na, and H.Yang, "Style-VT: Style Conditioned Chord Generation by Variational Transformer with Chord Substitution"
-            </span>
-          </a>
+            </p>
+          </div>
+
           
           <a href="/pdf/style.pdf" target="_blank">
             <img src="/images/contract.png" alt="PDF" width="20" style="vertical-align: middle; margin-left: 5px;">
