@@ -73,7 +73,7 @@ content:
         description: |
           ## <mark style="margin-bottom: 30px;">Research</mark>
           
-          <div style="display: flex; align-items: flex-start; margin-left: 30px;">
+          <div style="display: flex; align-items: flex-start; margin-left: 25px;">
             <a href="/pdf/Access.pdf" target="_blank" style="margin-right: 5px;">
               <img src="/images/contract.png" alt="PDF" width="30" style="vertical-align: top;">
             </a>
@@ -82,7 +82,7 @@ content:
             </p>
           </div>
 
-          <div style="display: flex; align-items: flex-start;">
+          <div style="display: flex; align-items: flex-start; margin-left: 25px;">
             <a href="/pdf/style.pdf" target="_blank" style="margin-right: 10px;">
               <img src="/images/contract.png" alt="PDF" width="30" style="vertical-align: top;">
             </a>
@@ -91,7 +91,7 @@ content:
             </p>
           </div>
 
-          <div style="display: flex; align-items: flex-start;">
+          <div style="display: flex; align-items: flex-start; margin-left: 25px;">
             <a href="/pdf/poster.pdf" target="_blank" style="margin-right: 10px;">
               <img src="/images/contract.png" alt="PDF" width="30" style="vertical-align: top;">
             </a>
@@ -108,7 +108,14 @@ content:
                       # other value (or no value) means no border will be displayed
         title: AI in Weather Forecast
         description: |
-          - paper :
+          <div style="display: flex; align-items: flex-start; margin-left: 25px;">
+              <a href="/pdf/conv.pdf" target="_blank" style="margin-right: 10px;">
+                <img src="/images/contract.png" alt="PDF" width="30" style="vertical-align: top;">
+              </a>
+              <p style="margin-left: 5px; vertical-align: middle;">
+                기상 데이터 이미지화를 통해 관측소 위치 정보를 활용한 ConvLSTM 기반 미세먼지 농도 예측 모델
+              </p>
+            </div>
           
   - title: Experience
     layout: list
