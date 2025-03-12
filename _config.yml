@@ -83,13 +83,15 @@ content:
         #     <img src="/images/Style-VT_Last.png" alt="AI in Music Generation" width="300" align="left">
         #   </a>
 
-        description: | # this will include new lines to allow paragraphs
+        description: | 
           ## Research
           <a href="/pdf/Access.pdf" target="_blank">
             <img src="/images/contract.png" alt="PDF" width="30" style="vertical-align: middle; margin-left: 5px;">
           </a>          
-          K.Song, D.Seo, J.Na, and H.Yang, "Style-VT: Style Conditioned Chord Generation by Variational Transformer with Chord Substitution"
-          
+          <p style="margin-left: 40px;">
+            K.Song, D.Seo, J.Na, and H.Yang, "Style-VT: Style Conditioned Chord Generation by Variational Transformer with Chord Substitution"
+          </p>
+
           <a href="/pdf/style.pdf" target="_blank">
             <img src="/images/contract.png" alt="PDF" width="20" style="vertical-align: middle; margin-left: 5px;">
           </a>
@@ -117,6 +119,8 @@ content:
         title: Edint
         sub_title: AI Engineer Intern
         caption: 2024.06 - 2024.07
+        sub_title: AI Engineer Freelancer
+        caption: 2024.11 - 2024.01
         link: https://edint.kr/
         quote: >
           Short description of the company (optional)
