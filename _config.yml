@@ -67,14 +67,14 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
+        border: weak  # Value of `weak` will display a weak border below this item.
         title: AI in Music Generation
         quote: >
+          <p>AI in Music Generation</p>
           <a href="/images/Style-VT_Last.png" target="_blank">
             <img src="/images/Style-VT_Last.png" alt="AI in Music Generation" width="300" style="display: block; margin-top: 10px; clear: both;">
           </a>
-          
+
         description: |         
           ## <mark>Research</mark>
           <a href="/pdf/Access.pdf" target="_blank" style="display: inline-block;">
