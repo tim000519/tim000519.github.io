@@ -73,7 +73,7 @@ content:
         description: |
           ## <mark style="margin-bottom: 20px;">Research</mark>
           
-          <div style="display: flex; align-items: flex-start;">
+          <div style="display: flex; align-items: flex-start; margin-left: 10px;">
             <a href="/pdf/Access.pdf" target="_blank" style="margin-right: 10px;">
               <img src="/images/contract.png" alt="PDF" width="30" style="vertical-align: top;">
             </a>
