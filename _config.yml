@@ -82,9 +82,8 @@ content:
           <img src="/images/Style-VT_Last.png" alt="AI in Music Generation">
         description: | # this will include new lines to allow paragraphs
           ## Research
-          - Paper(English) : <a href="/pdf/Access.pdf" target="_blank"> Style-VT: Style Conditioned Chord Generation by Variational Transformer with Chord Substitution (PDF)</a>
+          - Paper(English) : Style-VT: Style Conditioned Chord Generation by Variational Transformer with Chord Substitution (PDF)
           <a href="/pdf/Access.pdf" target="_blank">
-            Style-VT: Style Conditioned Chord Generation by Variational Transformer with Chord Substitution (PDF)
             <img src="/images/contract.png" alt="PDF" width="20" style="vertical-align: middle; margin-left: 5px;">
           </a>
           - Paper(Korean) : <a href="/pdf/style.pdf" target="_blank">STYLE-VT Variational Transformer와 대리 코드 이론을 적용한 스타 (PDF)</a>
