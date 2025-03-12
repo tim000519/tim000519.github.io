@@ -72,6 +72,7 @@ content:
 
         description: |
           ## <mark>Research</mark>
+          
           <div style="display: flex; align-items: flex-start;">
             <a href="/pdf/Access.pdf" target="_blank" style="margin-right: 10px;">
               <img src="/images/contract.png" alt="PDF" width="30" style="vertical-align: top;">
@@ -81,12 +82,14 @@ content:
             </p>
           </div>
 
-          
-          <a href="/pdf/style.pdf" target="_blank">
-            <img src="/images/contract.png" alt="PDF" width="20" style="vertical-align: middle; margin-left: 5px;">
-          </a>
-          송교원, 서동영, 나준수, 양희철, "Variational Transformer와 대리 코드 이론을 적용한 스타일 기반 음악생성 모델",
-          in Korean Institute of Information Scientists and Engineers
+          <div style="display: flex; align-items: flex-start;">
+            <a href="/pdf/style.pdf" target="_blank" style="margin-right: 10px;">
+              <img src="/images/contract.png" alt="PDF" width="30" style="vertical-align: top;">
+            </a>
+            <p style="margin-left: 5px; vertical-align: middle;">
+              송교원, 서동영, 나준수, 양희철, "Variational Transformer와 대리 코드 이론을 적용한 스타일 기반 음악생성 모델", in Korean Institute of Information Scientists and Engineers
+            </p>
+          </div>
         
           - Research poster at KIISE 2024 <a href="/pdf/poster.pdf" target="_blank">Style-VT(PDF)</a>
 
