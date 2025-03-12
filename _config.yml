@@ -71,7 +71,7 @@ content:
         title: AI in Music Generation
 
         description: |
-        <mark style="margin-bottom: 10px;">Research</mark>
+          ## <mark>Research</mark>
           <div style="display: flex; align-items: flex-start;">
             <a href="/pdf/Access.pdf" target="_blank" style="margin-right: 10px;">
               <img src="/images/contract.png" alt="PDF" width="30" style="vertical-align: top;">
@@ -82,17 +82,16 @@ content:
           </div>
 
           <div style="display: flex; align-items: flex-start;">
-            <a href="/pdf/style.pdf" target="_blank" style="margin-right: 10px;">
+            <a href="/pdf/style.pdf" target="_blank">
               <img src="/images/contract.png" alt="PDF" width="20" style="vertical-align: middle; margin-left: 5px;">
             </a>
             <p style="margin-left: 5px; vertical-align: middle;">
               송교원, 서동영, 나준수, 양희철, "Variational Transformer와 대리 코드 이론을 적용한 스타일 기반 음악생성 모델", in Korean Institute of Information Scientists and Engineers
             </p>
-          </div>
         
           - Research poster at KIISE 2024 <a href="/pdf/poster.pdf" target="_blank">Style-VT(PDF)</a>
 
-          ## <mark style="margin-bottom: 10px;">Development</mark>
+          ## <mark>Development</mark>
           - Repository : [GitHub](https://github.com/tim000519/Style-VT)
 
       - layout: left
@@ -100,16 +99,7 @@ content:
                       # other value (or no value) means no border will be displayed
         title: AI in Weather Forecast
         description: |
-        
-          <div style="display: flex; align-items: flex-start;">
-            <a href="/pdf/conv.pdf" target="_blank" style="margin-right: 10px;">
-              <img src="/images/contract.png" alt="PDF" width="30" style="vertical-align: top;">
-            </a>
-            <p style="margin-left: 5px; vertical-align: middle;">
-              K.Song, D.Seo, J.Na, and H.Yang, "Style-VT: Style Conditioned Chord Generation by Variational Transformer with Chord Substitution"
-            </p>
-          </div>
-        
+          - paper :
           
   - title: Experience
     layout: list
@@ -118,7 +108,7 @@ content:
         title: Edint
         sub_title: AI Engineer Intern
         caption: 2024.06 - 2024.07
-        sub_title: AI Engineer Freelancer  
+        sub_title: AI Engineer Freelancer
         caption: 2024.11 - 2024.01
         link: https://edint.kr/
         quote: >
