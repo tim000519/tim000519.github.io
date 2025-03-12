@@ -71,9 +71,9 @@ content:
         title: AI in Music Generation
 
         description: |
-          ## <mark style="margin-bottom: 20px;">Research</mark>
+          ## <mark style="margin-bottom: 30px;">Research</mark>
           
-          <div style="display: flex; align-items: flex-start; margin-left: 10px;">
+          <div style="display: flex; align-items: flex-start; margin-left: 30px;">
             <a href="/pdf/Access.pdf" target="_blank" style="margin-right: 5px;">
               <img src="/images/contract.png" alt="PDF" width="30" style="vertical-align: top;">
             </a>
