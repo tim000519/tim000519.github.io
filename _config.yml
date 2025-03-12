@@ -63,29 +63,26 @@ about_content: | # this will include new lines to allow paragraphs
   - Jupyter
 
 content:
-  - title: Projects # Title for the section
+  - title: Projects
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item.
-        title: <p>AI in Music Generation</p>
-          <a href="/images/Style-VT_Last.png" target="_blank">
-            <img src="/images/Style-VT_Last.png" alt="AI in Music Generation" width="300" style="display: block; margin-top: 10px; clear: both;">
-          </a>
-        # quote: >
-        #   <p>AI in Music Generation</p>
-        #   <a href="/images/Style-VT_Last.png" target="_blank">
-        #     <img src="/images/Style-VT_Last.png" alt="AI in Music Generation" width="300" style="display: block; margin-top: 10px; clear: both;">
-        #   </a>
+        title: AI in Music Generation
+        quote: >
+          # <p>AI in Music Generation</p>
+          # <a href="/images/Style-VT_Last.png" target="_blank">
+          #   <img src="/images/Style-VT_Last.png" alt="AI in Music Generation" width="300" style="display: block; margin-top: 10px; clear: both;">
+          # </a>
 
         description: |         
           ## <mark>Research</mark>
-          <a href="/pdf/Access.pdf" target="_blank" style="display: inline-block;">
+          <a href="/pdf/Access.pdf" target="_blank" style="display: inline-block; text-decoration: none;">
             <img src="/images/contract.png" alt="PDF" width="30" style="vertical-align: middle; margin-left: 20px;">
-          </a>          
-          <p style="display: inline; margin-left: 5px;">
-            K.Song, D.Seo, J.Na, and H.Yang, "Style-VT: Style Conditioned Chord Generation by Variational Transformer with Chord Substitution"
-          </p>
+            <span style="margin-left: 5px;">
+              K.Song, D.Seo, J.Na, and H.Yang, "Style-VT: Style Conditioned Chord Generation by Variational Transformer with Chord Substitution"
+            </span>
+          </a>
 
           <a href="/pdf/style.pdf" target="_blank">
             <img src="/images/contract.png" alt="PDF" width="20" style="vertical-align: middle; margin-left: 5px;">
@@ -95,10 +92,8 @@ content:
         
           - Research poster at KIISE 2024 <a href="/pdf/poster.pdf" target="_blank">Style-VT(PDF)</a>
 
-          ## Development
+          ## <mark>Development</mark>
           - Repository : [GitHub](https://github.com/tim000519/Style-VT)
-
-          Description about the work on/with the project
 
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
