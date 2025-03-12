@@ -71,7 +71,7 @@ content:
         title: AI in Music Generation
 
         description: |
-          ## <mark style="margin-bottom: 10px;">Research</mark>
+          ## <mark style="margin-bottom: 20px;">Research</mark>
           
           <div style="display: flex; align-items: flex-start;">
             <a href="/pdf/Access.pdf" target="_blank" style="margin-right: 10px;">
@@ -93,7 +93,7 @@ content:
         
           - Research poster at KIISE 2024 <a href="/pdf/poster.pdf" target="_blank">Style-VT(PDF)</a>
 
-          ## <mark>Development</mark>
+          ## <mark style="margin-bottom: 10px;">Research</mark>
           - Repository : [GitHub](https://github.com/tim000519/Style-VT)
 
       - layout: left
