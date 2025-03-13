@@ -91,9 +91,9 @@ content:
             </p>
           </div>
 
-          <div style="display: inline-block; margin-left: 25px;">
+          <div style="display: inline-block; margin-left: 50px;">
             <a href="/pdf/style.pdf" target="_blank" style="margin-right: 10px; vertical-align: top;">
-              <img src="/images/contract.png" alt="PDF" style="width: 30px; height: 30px; display: block;">
+              <img src="/images/contract.png" alt="PDF" style="width: 30px; height: 25px; display: block;">
             </a>
             <p style="margin-left: 5px; display: inline-block; vertical-align: middle;">
               송교원, 서동영, 나준수, 양희철, "Vas
