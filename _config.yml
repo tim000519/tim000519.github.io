@@ -92,7 +92,7 @@ content:
           </div>
 
           <div style="display: flex; align-items: flex-start; margin-left: 25px;">
-            <a href="/pdf/poster.pdf" target="_blank" style="margin-right: 10px;">
+            <a href="/pdf/stylrPoster.pdf" target="_blank" style="margin-right: 10px;">
               <img src="/images/contract.png" alt="PDF" width="25" style="vertical-align: middle;">
             </a>
             <p style="margin-left: 5px; vertical-align: middle;">
@@ -142,7 +142,7 @@ content:
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           - Authored 2 papers about using ML techniq in various domains
-          - 
+          - Conducted research on
 
           
   - title: Education
