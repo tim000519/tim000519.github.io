@@ -113,7 +113,8 @@ content:
           ### 
           ## <mark style="margin-top: 10px;">Development</mark>
           - Repository : [GitHub](https://github.com/tim000519/Style-VT)
-
+          
+    content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
@@ -148,13 +149,13 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: Bachelor’s Degree. Computer Convergence, Chungnam National University
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: Chungnam National University
+        sub_title: Bachelor’s Degree. Computer Convergence 
+        caption: 2019 - Current
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          - GPA: 3.95/4.5 (major: 4.02/4.5) ( July 2024)
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
