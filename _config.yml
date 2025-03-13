@@ -69,7 +69,9 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item.
         # title: Music Generation with Machine Learning
-        title: "<div class='group'><img src='/images/Style-VT_Last.png' alt='AI'> Music Generation with Machine Learning</div>"
+        # title: "<div class='group'><img src='/images/Style-VT_Last.png' alt='AI'> Music Generation with Machine Learning</div>"
+        title: "<div class='group'>Music Generation with Machine Learning<br><a href='/images/Style-VT_Last.png' target='_blank'><img src='/images/Style-VT_Last.png' alt='AI'></a></div>"
+
 
         description: |
           ## <mark style="display: inline-block; margin-bottom: 10px;">Research</mark>
