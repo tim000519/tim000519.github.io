@@ -75,7 +75,7 @@ content:
           
           <div style="display: flex; align-items: flex-start; margin-left: 25px;">
             <a href="/pdf/Access.pdf" target="_blank" style="margin-right: 10px;">
-              <img src="/images/contract.png" alt="PDF" width="40" style="vertical-align: middle;">
+              <img src="/images/contract.png" alt="PDF" width="30" style="vertical-align: middle;">
             </a>
             <p style="margin-left: 5px; vertical-align: middle;">
               K.Song, D.Seo, J.Na, and H.Yang, "Style-VT: Style Conditioned Chord Generation by Variational Transformer with Chord Substitution"
@@ -93,7 +93,7 @@ content:
 
           <div style="display: flex; align-items: flex-start; margin-left: 25px;">
             <a href="/pdf/poster.pdf" target="_blank" style="margin-right: 10px;">
-              <img src="/images/contract.png" alt="PDF" width="30" style="vertical-align: middle;">
+              <img src="/images/contract.png" alt="PDF" width="25" style="vertical-align: middle;">
             </a>
             <p style="margin-left: 5px; vertical-align: middle;">
               Research poster at KIISE 2024
@@ -111,7 +111,7 @@ content:
         description: |
           <div style="display: flex; align-items: flex-start; margin-left: 25px;">
               <a href="/pdf/conv.pdf" target="_blank" style="margin-right: 10px;">
-                <img src="/images/contract.png" alt="PDF" width="30" style="vertical-align: top;">
+                <img src="/images/contract.png" alt="PDF" width="30" style="vertical-align: middle;">
               </a>
               <p style="margin-left: 5px; vertical-align: middle;">
                 기상 데이터 이미지화를 통해 관측소 위치 정보를 활용한 ConvLSTM 기반 미세먼지 농도 예측 모델
@@ -134,14 +134,15 @@ content:
           Description of role
 
       - layout: right
-        title: Edint
+        title: DNCLab(CNU)
         sub_title: Undergraduate ML Researcher
         caption: 2023.11 - 2025.02
         link: https://edint.kr/
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          - Authored 2 papers about using ML techniq in various domains
+          - 
 
           
   - title: Education
