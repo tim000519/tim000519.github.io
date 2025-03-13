@@ -114,7 +114,6 @@ content:
           ## <mark style="margin-top: 10px;">Development</mark>
           - Repository : [GitHub](https://github.com/tim000519/Style-VT)
           
-    content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
@@ -132,6 +131,18 @@ content:
   - title: Experience
     layout: list
     content:
+      - layout: right
+        title: Edint
+        sub_title: AI Engineer Intern
+        caption: 2024.06 - 2024.07
+        sub_title: AI Engineer Freelancer
+        caption: 2024.11 - 2024.01
+        link: https://edint.kr/
+        quote: >
+          Short description of the company (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of role
+
       - layout: right
         title: Edint
         sub_title: AI Engineer Intern
