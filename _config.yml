@@ -75,7 +75,7 @@ content:
           
           <div style="display: flex; align-items: flex-start; margin-left: 25px;">
             <a href="/pdf/Access.pdf" target="_blank" style="margin-right: 5px;">
-              <img src="/images/contract.png" alt="PDF" style="width: 30px; height: 30px; display: block;">
+              <img src="/images/contract.png" alt="PDF" style="width: 30px; height: 25px; display: block;">
             </a>
             <p style="margin-left: 5px; vertical-align: middle;">
               K.Song, D.Seo, J.Na, and H.Yang, "Style-VT: Style Conditioned Chord Generation by Variational Transformer with Chord Substitution"
@@ -84,7 +84,7 @@ content:
 
           <div style="display: flex; align-items: flex-start; margin-left: 25px;">
             <a href="/pdf/style.pdf" target="_blank" style="margin-right: 10px;">
-              <img src="/images/contract.png" alt="PDF" style="width: 30px; height: 30px; display: block;">
+              <img src="/images/contract.png" alt="PDF" style="width: 30px; height: 25px; display: block;">
             </a>
             <p style="margin-left: 5px; vertical-align: middle;">
               송교원, 서동영, 나준수, 양희철, "Variational Transformer와 대리 코드 이론을 적용한 스타일 기반 음악생성 모델", in Korean Institute of Information Scientists and Engineers
