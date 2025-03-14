@@ -177,14 +177,12 @@ content:
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           - GPA: 3.95/4.5 (major: 4.02/4.5) ( July 2024)
+          
   - title: A Little More About Me
     layout: list
     content:
-    - layout: top-left
+    - layout: left
       title: Awards
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true
