@@ -93,7 +93,7 @@ content:
 
           <div style="display: flex; align-items: flex-start; margin-left: 35px;">
             <a href="/pdf/stylrPoster.pdf" target="_blank" style="margin-right: 10px; flex-shrink: 0;">
-              <img src="/images/poster.png" alt="PDF" width="30" style="vertical-align: middle; flex-shrink: 0;">
+              <img src="/images/poster2.png" alt="PDF" width="30" style="vertical-align: middle; flex-shrink: 0;">
             </a>
             <p style="margin-left: 5px; vertical-align: middle;">
               Research poster at KIISE 2024
@@ -128,7 +128,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: AI in Weather Forecast
+        title: AI Behavior Detection Model
         description: |
           <div style="display: flex; align-items: flex-start; margin-left: 35px;">
             <a href="/pdf/conv.pdf" target="_blank" style="margin-right: 10px; flex-shrink: 0;">
@@ -178,8 +178,10 @@ content:
         description: | # this will include new lines to allow paragraphs
           - GPA: 3.95/4.5 (major: 4.02/4.5) ( July 2024)
   - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
+    layout: list
+    content:
+    - layout: top-left
+      title: Awards
       This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
       Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
