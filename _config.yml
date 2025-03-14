@@ -183,7 +183,14 @@ content:
     content:
     - layout: left
       title: Awards
+      description: |
+        - Special Award, Chungnam National University Project Fair
+        - Excellence Award, Korea Software Congress
 
+    - layout : left
+      title: Exchange student
+      description: |
+        - Special Award, Chungnam National University Project Fair
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
